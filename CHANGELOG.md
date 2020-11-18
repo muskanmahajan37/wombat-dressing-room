@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented here.
 
+## [1.1.0](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/compare/v1.0.1...v1.1.0) (2020-11-18)
+
+
+### Features
+
+* adding support for using permsRepo ([#76](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/76)) ([782665e](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/782665ec88ca706e6032ef85c9dee64e6543d23e))
+* allow a candidate release to be published to next tag ([#66](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/66)) ([833dad5](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/833dad53cb9936d342231ef5da2e442786586be5))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/datastore to v6 ([#72](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/72)) ([6acd781](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/6acd78194028034a6a94da56ed5ee50e288308d7))
+* **deps:** update dependency express-handlebars to v4 ([#61](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/61)) ([9a84725](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/9a84725b06b91150773c2ababab92f775cf2cbd1))
+* **deps:** update dependency express-handlebars to v5 ([#75](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/75)) ([47de140](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/47de140381c7e80f7566c5bfffb74244c7e30f0b))
+* **deps:** update dependency uuid to v7 ([#57](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/57)) ([5a6ff4e](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/5a6ff4e0c516fd13a545e56890f0d2a341a46c67))
+* **deps:** update dependency uuid to v8 ([#69](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/69)) ([a6271c1](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/a6271c165b076348b48493a938b2684c8dbfd07b))
+* **release-backed:** look at tags rather than releases ([#84](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/84)) ([9ebafd1](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/9ebafd10dc69c51eb313ceac9389b3849b4089f2))
+* allow for permsRepo without repository ([#79](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/79)) ([f552d02](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/f552d020a6fc7af1b9a20828c447f05c3a151c3a))
+* login was broken due to missing JS import ([#51](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/issues/51)) ([571e124](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/commit/571e12419e926814bba262abfb5c94770147d933))
+
 ### [1.0.1](https://www.github.com/GoogleCloudPlatform/wombat-dressing-room/compare/v1.0.0...v1.0.1) (2020-01-15)
 
 
